@@ -1,0 +1,37 @@
+body {
+  font-family:"Arial","Meiryo",sans-serif;
+}
+
+h1 {
+ font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+html{
+  font-size:20px ;
+}
+
+h1{
+  font-size: 2rem;
+}
+
+.text-pink{
+  color:rgb(255, 192, 203)
+}
+
+.text-skyblue{
+  color:skyblue
+}
+
+.parent div{
+  text-align: center;
+}
+
+h1{
+  letter-spacing: 1.5em;
+  text-shadow: 10px 2px 3px yellow;
+  border-bottom: solid 3px rgb(115, 115, 114)
+}
+
+.grandchild {
+  font-weight: bold;
+}
